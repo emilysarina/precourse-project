@@ -1,0 +1,112 @@
+body {
+    background-color: #514839;
+  }
+  header {
+    background-color: #ECE8E3;
+    text-align: right;
+    margin:5px;
+  }
+  #title {
+    font-size: 120px;
+    padding: 10px; 
+    color: #514839;
+  }
+  
+  #prettyface {
+    position: relative;
+    left: 965px;
+    text-align: centered;
+    font-size: 50px;
+    color: #ECE8E3;
+    width: 1000px;
+  }
+  
+  #image {
+     margin: 5px auto;
+     display:block;
+     max-width:1200px;
+     width: 100%;
+    
+  }
+  
+  #img-div {
+    position: relative;
+    text-align: center;
+    height: auto;
+    width: 100%;
+  }
+  
+  #img-caption {
+    position: relative;
+    margin: 5px;
+    color: #ECE8E3;
+  }
+  #intro-paragraph {
+    background-color: #ECE8E3;
+    position: relative;
+    text-align: center;
+    top: 60px;
+    font-size: 30px;
+    margin: 5px;
+  }
+  
+  
+  #timeline-title {
+    position: relative;
+    top: 80px;
+    text-align: center;
+    font-size: 50px;
+    color: #ECE8E3;
+  }
+  .card {
+    Background-color: #ECE8E3; 
+    border-radius: 5%;
+  }
+  
+  .timeline-grid {
+    position: relative;
+    top: 90px;
+    justify-content: center;
+    display: grid;
+    text-align: center;
+    grid-template-columns: repeat(4, 300px); 
+    grid-template-rows: repeat(3,300px); 
+    grid-gap: 30px;
+    
+    
+  }
+  .details {
+    color: #514839;
+    font-size: 30px;
+  }
+  .date {
+    color:#514839;
+    font-size: 22px;
+  }
+  .content {
+    padding: 6px;
+  }
+   #info-p {
+    text-align: center;
+    position: relative;
+    top: 150px;
+    color: #ECE8E3;
+    font-size: 20px;
+  }
+  
+  #button { 
+    text-align: center;
+    position: relative;
+    top: 150px;
+    display: table; 
+    margin: 0px auto 0px auto; 
+    padding:5px;
+    font-size:25px;
+    font-weight: bold;
+    background-color: #ECE8E3;
+    border-radius: 50%;
+    color: #514839;
+  }
+  
+  
+  
